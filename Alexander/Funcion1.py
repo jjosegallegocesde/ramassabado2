@@ -1,0 +1,2 @@
+#funciones tradicionales con python
+
