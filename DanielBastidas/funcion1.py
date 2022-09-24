@@ -1,1 +1,1 @@
-#Funciones tradicoinales con pythin
+#Funciones tradicoinales con python
