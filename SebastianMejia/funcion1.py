@@ -1,0 +1,1 @@
+#funciones tradicionales con pyhton
